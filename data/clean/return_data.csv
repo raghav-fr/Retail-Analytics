@@ -1,0 +1,792 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+C536379,D,Discount,-1,2010-12-01 09:41:00,27.5,14527.0,United Kingdom
+C536548,20957,PORCELAIN HANGING BELL SMALL,-1,2010-12-01 14:33:00,1.45,12472.0,Germany
+536779,BANK CHARGES,Bank Charges,1,2010-12-02 15:08:00,15.0,15823.0,United Kingdom
+537032,21275,?,-30,2010-12-03 16:50:00,0.0,Not Available,United Kingdom
+537153,22034,ROBIN CHRISTMAS CARD,3,2010-12-05 13:03:00,0.42,16718.0,United Kingdom
+C537164,D,Discount,-1,2010-12-05 13:21:00,29.29,14527.0,United Kingdom
+C537320,35400,WOODEN BOX ADVENT CALENDAR ,-1,2010-12-06 11:47:00,8.95,14867.0,United Kingdom
+537425,84968F,check,-20,2010-12-06 15:35:00,0.0,Not Available,United Kingdom
+537426,84968E,check,-35,2010-12-06 15:36:00,0.0,Not Available,United Kingdom
+537432,35833G,damages,-43,2010-12-06 16:10:00,0.0,Not Available,United Kingdom
+C537572,BANK CHARGES,Bank Charges,-1,2010-12-07 12:00:00,95.38,Not Available,United Kingdom
+C537581,S,SAMPLES,-1,2010-12-07 12:03:00,12.95,Not Available,United Kingdom
+C537581,S,SAMPLES,-1,2010-12-07 12:03:00,52.0,Not Available,United Kingdom
+C537597,D,Discount,-1,2010-12-07 12:34:00,281.0,15498.0,United Kingdom
+C537600,AMAZONFEE,AMAZON FEE,-1,2010-12-07 12:41:00,1.0,Not Available,United Kingdom
+C537630,AMAZONFEE,AMAZON FEE,-1,2010-12-07 15:04:00,13541.33,Not Available,United Kingdom
+537632,AMAZONFEE,AMAZON FEE,1,2010-12-07 15:08:00,13541.33,Not Available,United Kingdom
+C537644,AMAZONFEE,AMAZON FEE,-1,2010-12-07 15:34:00,13474.79,Not Available,United Kingdom
+C537647,AMAZONFEE,AMAZON FEE,-1,2010-12-07 15:41:00,5519.25,Not Available,United Kingdom
+C537651,AMAZONFEE,AMAZON FEE,-1,2010-12-07 15:49:00,13541.33,Not Available,United Kingdom
+C537652,AMAZONFEE,AMAZON FEE,-1,2010-12-07 15:51:00,6706.71,Not Available,United Kingdom
+C537763,85068,CREAM SWEETHEART SHELF + HOOKS,-1,2010-12-08 12:03:00,7.95,16713.0,United Kingdom
+C537814,20703,BLUE PADDED SOFT MOBILE,-3,2010-12-08 13:43:00,4.25,12712.0,Germany
+C537857,D,Discount,-1,2010-12-08 16:00:00,267.12,17340.0,United Kingdom
+538072,22423,faulty,-13,2010-12-09 14:10:00,0.0,Not Available,United Kingdom
+538090,20956,?,-723,2010-12-09 14:48:00,0.0,Not Available,United Kingdom
+C538091,35400,WOODEN BOX ADVENT CALENDAR ,-2,2010-12-09 14:48:00,8.95,16499.0,United Kingdom
+538149,21144,PINK POODLE HANGING DECORATION ,2,2010-12-09 16:27:00,3.36,Not Available,United Kingdom
+538149,72815,3 WICK CHRISTMAS BRIAR CANDLE ,1,2010-12-09 16:27:00,8.47,Not Available,United Kingdom
+538161,46000S,Dotcom sales,-100,2010-12-09 17:25:00,0.0,Not Available,United Kingdom
+538162,46000M,Dotcom sales,-100,2010-12-09 17:25:00,0.0,Not Available,United Kingdom
+C538680,BANK CHARGES,Bank Charges,-1,2010-12-13 17:10:00,966.92,Not Available,United Kingdom
+C538699,35400,WOODEN BOX ADVENT CALENDAR ,-4,2010-12-14 10:23:00,7.95,16422.0,United Kingdom
+C538726,35832,WOOLLY HAT SOCK GLOVE ADVENT STRING,-1,2010-12-14 11:18:00,2.95,13078.0,United Kingdom
+C538897,D,Discount,-1,2010-12-15 09:14:00,5.76,16422.0,United Kingdom
+C538897,D,Discount,-1,2010-12-15 09:14:00,42.5,16422.0,United Kingdom
+C538898,37503,TEA TIME CAKE STAND IN GIFT BOX,-1,2010-12-15 09:20:00,10.75,15078.0,United Kingdom
+C539003,D,Discount,-1,2010-12-15 12:35:00,26.93,14527.0,United Kingdom
+539436,22034,ROBIN CHRISTMAS CARD,5,2010-12-17 14:49:00,0.42,Not Available,United Kingdom
+539450,35400,WOODEN BOX ADVENT CALENDAR ,1,2010-12-17 16:53:00,8.95,15570.0,United Kingdom
+539494,21479,?,752,2010-12-20 10:36:00,0.0,Not Available,United Kingdom
+C539589,D,Discount,-1,2010-12-20 13:14:00,13.88,14527.0,United Kingdom
+539738,21144,PINK POODLE HANGING DECORATION ,3,2010-12-21 15:19:00,3.36,Not Available,United Kingdom
+540010,22501,reverse 21/5/10 adjustment,-100,2011-01-04 11:13:00,0.0,Not Available,United Kingdom
+540012,22502,reverse 21/5/10 adjustment,-100,2011-01-04 11:14:00,0.0,Not Available,United Kingdom
+540100,22837,?,-106,2011-01-04 16:53:00,0.0,Not Available,United Kingdom
+C540117,AMAZONFEE,AMAZON FEE,-1,2011-01-05 09:55:00,16888.02,Not Available,United Kingdom
+C540118,AMAZONFEE,AMAZON FEE,-1,2011-01-05 09:57:00,16453.71,Not Available,United Kingdom
+C540164,72815,3 WICK CHRISTMAS BRIAR CANDLE ,-4,2011-01-05 12:02:00,3.75,14911.0,EIRE
+C540164,22034,ROBIN CHRISTMAS CARD,-12,2011-01-05 12:02:00,0.42,14911.0,EIRE
+C540164,21144,PINK POODLE HANGING DECORATION ,-12,2011-01-05 12:02:00,0.38,14911.0,EIRE
+C540164,21412,VINTAGE GOLD TINSEL REEL,-6,2011-01-05 12:02:00,0.42,14911.0,EIRE
+C540164,35400,WOODEN BOX ADVENT CALENDAR ,-2,2011-01-05 12:02:00,8.95,14911.0,EIRE
+C540171,D,Discount,-1,2011-01-05 12:26:00,22.97,14527.0,United Kingdom
+C540246,35400,WOODEN BOX ADVENT CALENDAR ,-1,2011-01-05 15:43:00,8.95,13081.0,United Kingdom
+C540246,79320,FLAMINGO LIGHTS,-1,2011-01-05 15:43:00,4.95,13081.0,United Kingdom
+C540246,85042,ANTIQUE LILY FAIRY LIGHTS,-2,2011-01-05 15:43:00,4.95,13081.0,United Kingdom
+C540307,21645,ASSORTED TUTTI FRUTTI ROUND BOX,-24,2011-01-06 12:58:00,1.65,15823.0,United Kingdom
+C540393,85042,ANTIQUE LILY FAIRY LIGHTS,-1,2011-01-06 18:08:00,4.95,17428.0,United Kingdom
+C540535,85023C,PINK LARGE JEWELED PHOTOFRAME,-1,2011-01-09 14:17:00,2.55,15005.0,United Kingdom
+540558,21258,?,-29,2011-01-10 10:04:00,0.0,Not Available,United Kingdom
+540564,22617,"mouldy, thrown away.",-2600,2011-01-10 10:36:00,0.0,Not Available,United Kingdom
+C540634,79323P,PINK CHERRY LIGHTS,-4,2011-01-10 12:02:00,6.75,13672.0,United Kingdom
+540638,72038P,damages,-990,2011-01-10 12:14:00,0.0,Not Available,United Kingdom
+540651,82599,?,-290,2011-01-10 15:00:00,0.0,Not Available,United Kingdom
+540825,79323P,PINK CHERRY LIGHTS,4,2011-01-11 13:54:00,6.75,13672.0,United Kingdom
+C540860,35400,WOODEN BOX ADVENT CALENDAR ,-1,2011-01-12 11:04:00,8.95,15953.0,United Kingdom
+540978,84050,counted,-310,2011-01-12 15:04:00,0.0,Not Available,United Kingdom
+541505,BANK CHARGES,Bank Charges,1,2011-01-18 15:58:00,15.0,15939.0,United Kingdom
+C541589,79323W,WHITE CHERRY LIGHTS,-8,2011-01-19 14:44:00,6.75,15831.0,United Kingdom
+C541653,BANK CHARGES,Bank Charges,-1,2011-01-20 11:50:00,1050.15,Not Available,United Kingdom
+541685,22351,Given away,-1400,2011-01-20 15:41:00,0.0,Not Available,United Kingdom
+541687,46000S,Dotcom,-300,2011-01-20 15:42:00,0.0,Not Available,United Kingdom
+C541701,35400,WOODEN BOX ADVENT CALENDAR ,-4,2011-01-21 09:26:00,7.95,14895.0,United Kingdom
+541882,48185,?,-57,2011-01-24 10:54:00,0.0,Not Available,United Kingdom
+542221,72815,3 WICK CHRISTMAS BRIAR CANDLE ,2,2011-01-26 12:40:00,3.75,14978.0,United Kingdom
+542225,85096,label mix up,-59,2011-01-26 13:10:00,0.0,Not Available,United Kingdom
+542361,85161,samples/damages,-20,2011-01-27 12:47:00,0.0,Not Available,United Kingdom
+542861,47591B,?,-207,2011-02-01 11:47:00,0.0,Not Available,United Kingdom
+C542866,85063,CREAM SWEETHEART MAGAZINE RACK,-2,2011-02-01 12:14:00,14.95,15311.0,United Kingdom
+542915,35400,WOODEN BOX ADVENT CALENDAR ,4,2011-02-01 16:18:00,8.95,15940.0,United Kingdom
+543257,84611B,thrown away,-1430,2011-02-04 16:06:00,0.0,Not Available,United Kingdom
+543259,84612B,thrown away,-162,2011-02-04 16:07:00,0.0,Not Available,United Kingdom
+543260,84613A,thrown away,-230,2011-02-04 16:07:00,0.0,Not Available,United Kingdom
+543262,84614A,thrown away,-390,2011-02-04 16:08:00,0.0,Not Available,United Kingdom
+C543744,79323P,PINK CHERRY LIGHTS,-4,2011-02-11 13:43:00,6.75,13672.0,United Kingdom
+C543752,D,Discount,-1,2011-02-11 14:12:00,64.27,14031.0,United Kingdom
+C543758,D,Discount,-1,2011-02-11 15:07:00,65.91,15299.0,United Kingdom
+C543789,D,Discount,-1,2011-02-11 17:10:00,84.8,17450.0,United Kingdom
+543827,84406B,incorrectly made-thrown away.,-64,2011-02-14 09:44:00,0.0,Not Available,United Kingdom
+C543840,D,Discount,-1,2011-02-14 11:19:00,70.01,14527.0,United Kingdom
+C544049,BANK CHARGES,Bank Charges,-1,2011-02-15 12:39:00,566.37,Not Available,United Kingdom
+544410,84997C,?,-741,2011-02-18 13:54:00,0.0,Not Available,United Kingdom
+C544575,BANK CHARGES,Bank Charges,-1,2011-02-21 13:58:00,134.76,Not Available,United Kingdom
+C544576,BANK CHARGES,Bank Charges,-1,2011-02-21 14:01:00,149.16,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,5.74,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,11.08,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,5.79,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,6.7,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,8.74,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,9.74,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,9.99,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,20.98,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,7.69,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,5.44,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,7.0,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,10.0,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,19.5,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,20.55,Not Available,United Kingdom
+C544580,S,SAMPLES,-1,2011-02-21 14:25:00,29.99,Not Available,United Kingdom
+C544581,S,SAMPLES,-1,2011-02-21 14:32:00,12.94,Not Available,United Kingdom
+C544581,S,SAMPLES,-1,2011-02-21 14:32:00,92.0,Not Available,United Kingdom
+C544581,S,SAMPLES,-1,2011-02-21 14:32:00,107.99,Not Available,United Kingdom
+C544581,S,SAMPLES,-1,2011-02-21 14:32:00,55.0,Not Available,United Kingdom
+C544583,S,SAMPLES,-1,2011-02-21 14:48:00,128.56,Not Available,United Kingdom
+C544583,S,SAMPLES,-1,2011-02-21 14:48:00,39.5,Not Available,United Kingdom
+C544583,S,SAMPLES,-1,2011-02-21 14:48:00,37.49,Not Available,United Kingdom
+C544583,S,SAMPLES,-1,2011-02-21 14:48:00,31.98,Not Available,United Kingdom
+C544583,S,SAMPLES,-1,2011-02-21 14:48:00,2.8,Not Available,United Kingdom
+C544583,S,SAMPLES,-1,2011-02-21 14:48:00,4.59,Not Available,United Kingdom
+C544583,S,SAMPLES,-1,2011-02-21 14:48:00,95.0,Not Available,United Kingdom
+C544584,BANK CHARGES,Bank Charges,-1,2011-02-21 14:52:00,109.84,Not Available,United Kingdom
+C544587,AMAZONFEE,AMAZON FEE,-1,2011-02-21 15:07:00,5575.28,Not Available,United Kingdom
+C544589,AMAZONFEE,AMAZON FEE,-1,2011-02-21 15:11:00,5258.77,Not Available,United Kingdom
+544649,21621,?,-400,2011-02-22 12:37:00,0.0,Not Available,United Kingdom
+C544653,85065,CREAM SWEETHEART TRAYS,-1,2011-02-22 12:55:00,12.75,13113.0,United Kingdom
+C544671,S,SAMPLES,-1,2011-02-22 15:45:00,21.9,Not Available,United Kingdom
+545236,22797,damages,-15,2011-03-01 10:32:00,0.0,Not Available,United Kingdom
+545401,21769,showroom,-5,2011-03-02 12:03:00,0.0,Not Available,United Kingdom
+C545476,D,Discount,-1,2011-03-03 11:05:00,30.38,14527.0,United Kingdom
+C545478,D,Discount,-720,2011-03-03 11:08:00,0.01,16422.0,United Kingdom
+545546,84249A,check,-150,2011-03-03 15:03:00,0.0,Not Available,United Kingdom
+545857,20681,MIA,-154,2011-03-07 13:56:00,0.0,Not Available,United Kingdom
+C545887,BANK CHARGES,Bank Charges,-1,2011-03-07 15:54:00,326.68,Not Available,United Kingdom
+545990,84598,check,-3000,2011-03-08 13:07:00,0.0,Not Available,United Kingdom
+546010,22423,damages,-19,2011-03-08 15:55:00,0.0,Not Available,United Kingdom
+546016,85172,Dotcom set,-675,2011-03-08 17:21:00,0.0,Not Available,United Kingdom
+546018,85172,wrongly sold as sets,-600,2011-03-08 17:23:00,0.0,Not Available,United Kingdom
+546020,85175,Amazon sold sets,-210,2011-03-08 17:27:00,0.0,Not Available,United Kingdom
+546021,85175,dotcom sold sets,-345,2011-03-08 17:27:00,0.0,Not Available,United Kingdom
+546023,85175,wrongly sold sets,-975,2011-03-08 17:29:00,0.0,Not Available,United Kingdom
+546024,85175,? sold as sets?,-1200,2011-03-08 17:31:00,0.0,Not Available,United Kingdom
+546025,85172,?sold as sets?,-600,2011-03-08 17:31:00,0.0,Not Available,United Kingdom
+C546106,D,Discount,-1,2011-03-09 12:21:00,9.87,14527.0,United Kingdom
+546124,35610C,Thrown away.,-1121,2011-03-09 14:50:00,0.0,Not Available,United Kingdom
+546126,35611B,thrown away,-27,2011-03-09 14:52:00,0.0,Not Available,United Kingdom
+546129,35610B,thrown away,-541,2011-03-09 15:07:00,0.0,Not Available,United Kingdom
+546130,35610A,thrown away,-1277,2011-03-09 15:08:00,0.0,Not Available,United Kingdom
+546137,20893,damages/display,-197,2011-03-09 16:33:00,0.0,Not Available,United Kingdom
+546138,21815,?,-300,2011-03-09 16:34:00,0.0,Not Available,United Kingdom
+546139,84988,?,3000,2011-03-09 16:35:00,0.0,Not Available,United Kingdom
+546140,21527,damages,-30,2011-03-09 16:35:00,0.0,Not Available,United Kingdom
+546142,40016,damaged stock,-1100,2011-03-09 16:37:00,0.0,Not Available,United Kingdom
+546145,21537,?,-80,2011-03-09 16:39:00,0.0,Not Available,United Kingdom
+546147,21320,broken,-63,2011-03-09 16:42:00,0.0,Not Available,United Kingdom
+546148,85049D,?,-100,2011-03-09 16:43:00,0.0,Not Available,United Kingdom
+546149,20866,?,-230,2011-03-09 17:02:00,0.0,Not Available,United Kingdom
+546152,72140F,throw away,-5368,2011-03-09 17:25:00,0.0,Not Available,United Kingdom
+546245,85185B,?,-259,2011-03-10 13:26:00,0.0,Not Available,United Kingdom
+546407,22719,wrong barcode (22467),-178,2011-03-11 16:24:00,0.0,Not Available,United Kingdom
+546409,21833,damages,-110,2011-03-11 16:27:00,0.0,Not Available,United Kingdom
+C546416,85098B,BLUE FLYING SINGING CANARY,-1,2011-03-13 10:48:00,3.75,14800.0,United Kingdom
+C546943,BANK CHARGES,Bank Charges,-1,2011-03-18 11:11:00,56.93,Not Available,United Kingdom
+C546948,S,SAMPLES,-1,2011-03-18 11:20:00,50.99,Not Available,United Kingdom
+C546948,S,SAMPLES,-1,2011-03-18 11:20:00,65.85,Not Available,United Kingdom
+C546987,AMAZONFEE,AMAZON FEE,-1,2011-03-18 12:56:00,5693.05,Not Available,United Kingdom
+C546989,AMAZONFEE,AMAZON FEE,-1,2011-03-18 12:59:00,5225.03,Not Available,United Kingdom
+547028,84750A,PINK SMALL GLASS CAKE STAND,24,2011-03-20 10:13:00,1.95,13593.0,United Kingdom
+C547054,35400,WOODEN BOX ADVENT CALENDAR ,-1,2011-03-20 12:11:00,8.95,16444.0,United Kingdom
+C547168,84750A,PINK SMALL GLASS CAKE STAND,-24,2011-03-21 12:10:00,1.95,13593.0,United Kingdom
+547336,21689,wrong barcode,-323,2011-03-22 11:45:00,0.0,Not Available,United Kingdom
+547337,85025C,barcode problem,-230,2011-03-22 11:47:00,0.0,Not Available,United Kingdom
+547339,84406B,?,-450,2011-03-22 11:51:00,0.0,Not Available,United Kingdom
+547363,22459,?lost,-232,2011-03-22 12:33:00,0.0,Not Available,United Kingdom
+547559,72759,thrown away-can't sell.,-524,2011-03-23 17:27:00,0.0,Not Available,United Kingdom
+547560,72732,thrown away-can't sell,-2472,2011-03-23 17:28:00,0.0,Not Available,United Kingdom
+547901,AMAZONFEE,AMAZON FEE,1,2011-03-28 11:57:00,219.76,Not Available,United Kingdom
+C547904,AMAZONFEE,AMAZON FEE,-1,2011-03-28 12:02:00,219.76,Not Available,United Kingdom
+547950,35241,damages?,-40,2011-03-28 15:11:00,0.0,Not Available,United Kingdom
+547989,21621,re dotcom quick fix.,-100,2011-03-29 09:36:00,0.0,Not Available,United Kingdom
+548380,22127,Dotcom sold in 6's,-60,2011-03-30 16:44:00,0.0,Not Available,United Kingdom
+548381,22127,sold in set?,-690,2011-03-30 16:45:00,0.0,Not Available,United Kingdom
+548394,82494L,cracked,-39,2011-03-30 17:18:00,0.0,Not Available,United Kingdom
+548396,22719,sold as 22467,-25,2011-03-30 17:21:00,0.0,Not Available,United Kingdom
+C548411,D,Discount,-1,2011-03-31 10:36:00,162.24,13316.0,United Kingdom
+C548462,D,Discount,-1,2011-03-31 12:11:00,14.52,14527.0,United Kingdom
+548620,84313B,Damaged,-32,2011-04-01 11:53:00,0.0,Not Available,United Kingdom
+C548723,85063,CREAM SWEETHEART MAGAZINE RACK,-1,2011-04-04 09:02:00,16.95,15874.0,United Kingdom
+548999,84743C,damages,-26,2011-04-05 14:34:00,0.0,Not Available,United Kingdom
+549427,22797,damages,-12,2011-04-08 11:56:00,0.0,Not Available,United Kingdom
+C549430,84750A,PINK SMALL GLASS CAKE STAND,-3,2011-04-08 12:09:00,1.95,13846.0,United Kingdom
+C549452,D,Discount,-1,2011-04-08 14:17:00,1867.86,17940.0,United Kingdom
+549527,21620,mystery! Only ever imported 1800,-1479,2011-04-08 16:03:00,0.0,Not Available,United Kingdom
+549529,21830,"MERCHANT CHANDLER CREDIT ERROR, STO",-576,2011-04-08 16:56:00,0.0,Not Available,United Kingdom
+549531,21622,POSSIBLE DAMAGES OR LOST?,-750,2011-04-08 17:05:00,0.0,Not Available,United Kingdom
+C549666,84839,SWEETHEART KEY CABINET,-1,2011-04-11 12:17:00,5.55,13113.0,United Kingdom
+549684,S,SAMPLES,1,2011-04-11 13:24:00,30.0,Not Available,United Kingdom
+549717,BANK CHARGES,Bank Charges,1,2011-04-11 14:56:00,15.0,14606.0,United Kingdom
+549846,21100,Damaged,-6,2011-04-12 14:30:00,0.0,Not Available,United Kingdom
+549935,35915C,damaged,-43,2011-04-13 11:16:00,0.0,Not Available,United Kingdom
+549948,37488A,damaged,-1,2011-04-13 12:55:00,0.0,Not Available,United Kingdom
+549950,37487B,Damaged,-6,2011-04-13 12:57:00,0.0,Not Available,United Kingdom
+549952,37482P,Damaged,-93,2011-04-13 13:05:00,0.0,Not Available,United Kingdom
+550033,20703,BLUE PADDED SOFT MOBILE,1,2011-04-14 11:45:00,4.25,15005.0,United Kingdom
+550153,85167B,DAMAGED,-1,2011-04-14 14:44:00,0.0,Not Available,United Kingdom
+550753,84763,Display,-150,2011-04-20 11:53:00,0.0,Not Available,United Kingdom
+550800,22458,Missing,-65,2011-04-20 14:48:00,0.0,Not Available,United Kingdom
+550908,20827,damages,-68,2011-04-21 12:39:00,0.0,Not Available,United Kingdom
+550922,22784,damages,-25,2011-04-21 14:29:00,0.0,Not Available,United Kingdom
+C550932,BANK CHARGES,Bank Charges,-1,2011-04-21 15:12:00,475.69,Not Available,United Kingdom
+550954,47013A,damaged,-2,2011-04-21 16:18:00,0.0,Not Available,United Kingdom
+551019,22467,wrong code?,-100,2011-04-26 11:19:00,0.0,Not Available,United Kingdom
+551020,22719,wrong code,-110,2011-04-26 11:19:00,0.0,Not Available,United Kingdom
+C551190,D,Discount,-1,2011-04-27 10:22:00,120.0,17940.0,United Kingdom
+551243,51020B,adjust,-53,2011-04-27 11:49:00,0.0,Not Available,United Kingdom
+C551265,D,Discount,-1,2011-04-27 12:06:00,11.76,14527.0,United Kingdom
+C551285,20703,BLUE PADDED SOFT MOBILE,-1,2011-04-27 14:07:00,4.25,15005.0,United Kingdom
+551302,48189,damaged,-18,2011-04-27 14:55:00,0.0,Not Available,United Kingdom
+551323,21398,damages,-9,2011-04-27 15:31:00,0.0,Not Available,United Kingdom
+551327,84228,crushed,-4,2011-04-27 16:01:00,0.0,Not Available,United Kingdom
+551705,22655,damages/showroom etc,-11,2011-05-03 14:35:00,0.0,Not Available,United Kingdom
+551735,21656,samples,-19,2011-05-04 10:25:00,0.0,Not Available,United Kingdom
+551837,79164,damages/credits from ASOS.,-1512,2011-05-04 13:23:00,0.0,Not Available,United Kingdom
+551945,BANK CHARGES,Bank Charges,1,2011-05-05 11:09:00,15.0,16714.0,United Kingdom
+552331,22667,damaged,-30,2011-05-09 10:24:00,0.0,Not Available,United Kingdom
+C552423,D,Discount,-1,2011-05-09 12:44:00,11.84,14527.0,United Kingdom
+552443,22796,Not rcvd in 10/11/2010 delivery,-360,2011-05-09 13:05:00,0.0,Not Available,United Kingdom
+C552458,BANK CHARGES,Bank Charges,-1,2011-05-09 14:41:00,440.29,Not Available,United Kingdom
+C552569,D,Discount,-240,2011-05-10 12:06:00,0.03,12901.0,United Kingdom
+C552650,D,Discount,-18,2011-05-10 14:03:00,1.45,16672.0,United Kingdom
+552733,23059,Thrown away-rusty,-2376,2011-05-11 10:48:00,0.0,Not Available,United Kingdom
+553147,84879,damaged,-160,2011-05-13 13:58:00,0.0,Not Available,United Kingdom
+C553354,AMAZONFEE,AMAZON FEE,-1,2011-05-16 13:54:00,5876.4,Not Available,United Kingdom
+C553355,AMAZONFEE,AMAZON FEE,-1,2011-05-16 13:58:00,7006.83,Not Available,United Kingdom
+553391,37370,sold as set/6 by dotcom,-786,2011-05-16 16:42:00,0.0,Not Available,United Kingdom
+553394,15058A,wet/rusty,-30,2011-05-16 16:47:00,0.0,Not Available,United Kingdom
+553395,15058C,wet/rusty,-30,2011-05-16 16:47:00,0.0,Not Available,United Kingdom
+553396,22423,damages,-21,2011-05-16 16:48:00,0.0,Not Available,United Kingdom
+553398,37370,damages/dotcom?,-590,2011-05-16 17:07:00,0.0,Not Available,United Kingdom
+553400,20803,damages,-40,2011-05-16 17:09:00,0.0,Not Available,United Kingdom
+C553482,D,Discount,-1,2011-05-17 12:07:00,9.84,14527.0,United Kingdom
+C553511,BANK CHARGES,Bank Charges,-1,2011-05-17 13:49:00,86.9,Not Available,United Kingdom
+C553513,S,SAMPLES,-1,2011-05-17 13:58:00,9.99,Not Available,United Kingdom
+C553513,S,SAMPLES,-1,2011-05-17 13:58:00,103.58,Not Available,United Kingdom
+C553528,BANK CHARGES,Bank Charges,-1,2011-05-17 14:58:00,82.73,Not Available,United Kingdom
+C553531,S,SAMPLES,-1,2011-05-17 15:09:00,2.98,Not Available,United Kingdom
+C553531,S,SAMPLES,-1,2011-05-17 15:09:00,5.0,Not Available,United Kingdom
+C553531,S,SAMPLES,-1,2011-05-17 15:09:00,16.0,Not Available,United Kingdom
+C553531,S,SAMPLES,-1,2011-05-17 15:09:00,86.99,Not Available,United Kingdom
+C553531,S,SAMPLES,-1,2011-05-17 15:09:00,15.5,Not Available,United Kingdom
+C553531,S,SAMPLES,-1,2011-05-17 15:09:00,76.0,Not Available,United Kingdom
+C553531,S,SAMPLES,-1,2011-05-17 15:09:00,87.01,Not Available,United Kingdom
+C553665,D,Discount,-1,2011-05-18 12:16:00,15.96,14527.0,United Kingdom
+C553841,D,Discount,-48,2011-05-19 12:19:00,0.2,16029.0,United Kingdom
+C553865,S,SAMPLES,-1,2011-05-19 14:10:00,16.5,Not Available,United Kingdom
+554128,84563A,damaged,-4,2011-05-23 09:26:00,0.0,Not Available,United Kingdom
+554143,79030G,damages,-413,2011-05-23 10:40:00,0.0,Not Available,United Kingdom
+554144,79030D,damages,-664,2011-05-23 10:42:00,0.0,Not Available,United Kingdom
+554287,22700,smashed,-48,2011-05-23 14:17:00,0.0,Not Available,United Kingdom
+554432,85132A,damaged,-97,2011-05-24 12:16:00,0.0,Not Available,United Kingdom
+C554516,D,Discount,-1,2011-05-24 16:50:00,13.88,14527.0,United Kingdom
+554551,47566B,reverse previous adjustment,-1300,2011-05-25 09:58:00,0.0,Not Available,United Kingdom
+554852,21272,?,-212,2011-05-27 09:24:00,0.0,Not Available,United Kingdom
+555330,84804A,wet damaged,-125,2011-06-02 11:11:00,0.0,Not Available,United Kingdom
+555331,84800L,wet damaged,-144,2011-06-02 11:11:00,0.0,Not Available,United Kingdom
+555332,84801A,wet damaged,-48,2011-06-02 11:11:00,0.0,Not Available,United Kingdom
+555333,84805B,wet damaged,-96,2011-06-02 11:12:00,0.0,Not Available,United Kingdom
+555334,84805A,wet damaged,-96,2011-06-02 11:12:00,0.0,Not Available,United Kingdom
+C555398,20703,BLUE PADDED SOFT MOBILE,-3,2011-06-02 17:30:00,4.25,17375.0,United Kingdom
+555503,84313C,damaged,-1,2011-06-03 15:39:00,0.0,Not Available,United Kingdom
+555505,79030G,Water damaged,-16,2011-06-03 15:48:00,0.0,Not Available,United Kingdom
+555506,21397,damaged,-57,2011-06-03 16:03:00,0.0,Not Available,United Kingdom
+C555597,D,Discount,-1,2011-06-06 10:19:00,42.0,15796.0,United Kingdom
+C556037,D,Discount,-1,2011-06-08 12:37:00,20.92,14527.0,United Kingdom
+556046,21890,missing,-140,2011-06-08 12:56:00,0.0,Not Available,United Kingdom
+556122,85019C,Damaged,-108,2011-06-09 10:12:00,0.0,Not Available,United Kingdom
+556123,22272,Damaged,-15,2011-06-09 10:13:00,0.0,Not Available,United Kingdom
+556231,85123A,?,4000,2011-06-09 15:04:00,0.0,Not Available,United Kingdom
+556232,21135,sold as set on dotcom,-304,2011-06-09 15:15:00,0.0,Not Available,United Kingdom
+556233,21136,sold as set on dotcom,-272,2011-06-09 15:20:00,0.0,Not Available,United Kingdom
+556242,21700,sold as set on dotcom and amazon,-1206,2011-06-09 16:06:00,0.0,Not Available,United Kingdom
+556260,37340,sold as set on dotcom,-18,2011-06-09 18:02:00,0.0,Not Available,United Kingdom
+556261,79051A,sold as set on dotcom,-6,2011-06-09 18:03:00,0.0,Not Available,United Kingdom
+556262,37327,sold as set on dotcom,-95,2011-06-09 18:04:00,0.0,Not Available,United Kingdom
+C556265,D,Discount,-1,2011-06-09 19:24:00,28.04,16684.0,United Kingdom
+556299,21937,?,-161,2011-06-10 10:17:00,0.0,Not Available,United Kingdom
+556301,22968,water damage,-50,2011-06-10 10:18:00,0.0,Not Available,United Kingdom
+556306,37479B,sold as set by dotcom,-30,2011-06-10 10:38:00,0.0,Not Available,United Kingdom
+556307,37479P,sold as set on dotcom,-30,2011-06-10 10:39:00,0.0,Not Available,United Kingdom
+556308,22130,sold as set on dotcom,-390,2011-06-10 10:43:00,0.0,Not Available,United Kingdom
+556309,22856,sold as set on dotcom,-30,2011-06-10 10:44:00,0.0,Not Available,United Kingdom
+556310,22944,sold as set on dotcom,-42,2011-06-10 10:44:00,0.0,Not Available,United Kingdom
+556311,37471,sold as set on dotcom,-12,2011-06-10 10:45:00,0.0,Not Available,United Kingdom
+556312,22924,sold as set on dotcom,-30,2011-06-10 10:46:00,0.0,Not Available,United Kingdom
+556313,22923,sold as set on dotcom,-12,2011-06-10 10:46:00,0.0,Not Available,United Kingdom
+556314,23155,sold as set on dotcom,-84,2011-06-10 10:47:00,0.0,Not Available,United Kingdom
+556315,22948,sold as set on dotcom,-108,2011-06-10 10:47:00,0.0,Not Available,United Kingdom
+556316,22128,sold as set on dotcom,-24,2011-06-10 10:48:00,0.0,Not Available,United Kingdom
+556317,22857,sold as set on dotcom,-48,2011-06-10 10:48:00,0.0,Not Available,United Kingdom
+556319,22945,sold as set on dotcom,-618,2011-06-10 10:49:00,0.0,Not Available,United Kingdom
+556320,22922,sold as set on dotcom,-42,2011-06-10 10:50:00,0.0,Not Available,United Kingdom
+556321,79163,sold as set on dotcom,-24,2011-06-10 10:50:00,0.0,Not Available,United Kingdom
+556322,22915,sold as set on dotcom,-204,2011-06-10 10:51:00,0.0,Not Available,United Kingdom
+556687,23003,Printing smudges/thrown away,-9058,2011-06-14 10:36:00,0.0,Not Available,United Kingdom
+556690,23005,printing smudges/thrown away,-9600,2011-06-14 10:37:00,0.0,Not Available,United Kingdom
+556691,23005,printing smudges/thrown away,-9600,2011-06-14 10:37:00,0.0,Not Available,United Kingdom
+C556796,D,Discount,-96,2011-06-14 14:40:00,0.7,16013.0,United Kingdom
+C556874,BANK CHARGES,Bank Charges,-1,2011-06-15 11:49:00,464.52,Not Available,United Kingdom
+C556877,D,Discount,-1,2011-06-15 12:00:00,129.9,15498.0,United Kingdom
+C556904,D,Discount,-1,2011-06-15 12:56:00,14.42,14527.0,United Kingdom
+556963,35965,found some more on shelf,-9,2011-06-16 09:40:00,0.0,Not Available,United Kingdom
+557035,82583,?,-220,2011-06-16 13:52:00,0.0,Not Available,United Kingdom
+557036,20867,?,-271,2011-06-16 13:53:00,0.0,Not Available,United Kingdom
+557108,23113,Damaged,-1440,2011-06-16 15:58:00,0.0,Not Available,United Kingdom
+557390,21360,Show Samples,-4,2011-06-20 11:12:00,0.0,Not Available,United Kingdom
+557417,84809B,damaged,-324,2011-06-20 11:51:00,0.0,Not Available,United Kingdom
+557596,23114,Damaged,-1440,2011-06-21 11:33:00,0.0,Not Available,United Kingdom
+557597,23115,Damaged,-1440,2011-06-21 11:33:00,0.0,Not Available,United Kingdom
+557599,23116,Damaged,-1440,2011-06-21 11:34:00,0.0,Not Available,United Kingdom
+557600,23117,Damaged,-1440,2011-06-21 11:35:00,0.0,Not Available,United Kingdom
+557784,21421,damaged,-5,2011-06-22 15:49:00,0.0,Not Available,United Kingdom
+C557927,D,Discount,-1,2011-06-23 14:56:00,10.0,16029.0,United Kingdom
+C558036,AMAZONFEE,AMAZON FEE,-1,2011-06-24 12:31:00,5791.18,Not Available,United Kingdom
+C558037,AMAZONFEE,AMAZON FEE,-1,2011-06-24 12:33:00,4534.24,Not Available,United Kingdom
+558268,21351,damaged,-220,2011-06-28 10:17:00,0.0,Not Available,United Kingdom
+558306,85232D,mix up with c,-118,2011-06-28 10:59:00,0.0,Not Available,United Kingdom
+C558347,S,SAMPLES,-1,2011-06-28 14:47:00,4.95,Not Available,United Kingdom
+C558347,S,SAMPLES,-1,2011-06-28 14:47:00,6.15,Not Available,United Kingdom
+C558347,S,SAMPLES,-1,2011-06-28 14:47:00,3.59,Not Available,United Kingdom
+C558347,S,SAMPLES,-1,2011-06-28 14:47:00,16.0,Not Available,United Kingdom
+C558347,S,SAMPLES,-1,2011-06-28 14:47:00,14.92,Not Available,United Kingdom
+C558347,S,SAMPLES,-1,2011-06-28 14:47:00,9.9,Not Available,United Kingdom
+C558349,BANK CHARGES,Bank Charges,-1,2011-06-28 14:50:00,82.89,Not Available,United Kingdom
+C558359,S,SAMPLES,-1,2011-06-28 15:10:00,570.0,Not Available,United Kingdom
+558379,22618,"mouldy, unsaleable.",-1681,2011-06-28 16:34:00,0.0,Not Available,United Kingdom
+558457,21147,?,-95,2011-06-29 13:59:00,0.0,Not Available,United Kingdom
+558476,84597B,damages,-6,2011-06-29 16:04:00,0.0,Not Available,United Kingdom
+558723,84865,damaged,-7,2011-07-01 14:28:00,0.0,Not Available,United Kingdom
+558730,22060,damaged,-1,2011-07-01 14:51:00,0.0,Not Available,United Kingdom
+559314,84584,?,-50,2011-07-07 13:51:00,0.0,Not Available,United Kingdom
+559375,22051,?,-300,2011-07-08 10:37:00,0.0,Not Available,United Kingdom
+559378,21781,damages?,-39,2011-07-08 10:40:00,0.0,Not Available,United Kingdom
+559655,21166,?,-124,2011-07-11 12:57:00,0.0,Not Available,United Kingdom
+C559915,AMAZONFEE,AMAZON FEE,-1,2011-07-13 15:18:00,4383.62,Not Available,United Kingdom
+C559917,AMAZONFEE,AMAZON FEE,-1,2011-07-13 15:21:00,6497.47,Not Available,United Kingdom
+559943,21578,?,-251,2011-07-14 10:21:00,0.0,Not Available,United Kingdom
+C559992,D,Discount,-1,2011-07-14 12:30:00,13.99,14527.0,United Kingdom
+560039,20713,wrongly marked. 23343 in box,-3100,2011-07-14 14:27:00,0.0,Not Available,United Kingdom
+560717,84576,damaged,-3,2011-07-20 13:28:00,0.0,Not Available,United Kingdom
+C560823,BANK CHARGES,Bank Charges,-1,2011-07-21 11:22:00,21.9,Not Available,United Kingdom
+C560842,D,Discount,-1,2011-07-21 12:25:00,12.15,14527.0,United Kingdom
+C560869,D,Discount,-1,2011-07-21 14:32:00,66.24,12830.0,United Kingdom
+561103,85103,stock creditted wrongly,-32,2011-07-25 11:23:00,0.0,Not Available,United Kingdom
+C561225,D,Discount,-1,2011-07-26 10:06:00,45.6,16029.0,United Kingdom
+561249,DCGS0073,ebay,-4,2011-07-26 11:51:00,0.0,Not Available,United Kingdom
+561252,DCGS0069,ebay,-5,2011-07-26 11:52:00,0.0,Not Available,United Kingdom
+561253,DCGS0068,ebay,-10,2011-07-26 11:52:00,0.0,Not Available,United Kingdom
+561254,DCGS0067,ebay,-11,2011-07-26 11:52:00,0.0,Not Available,United Kingdom
+561256,DCGS0003,ebay,-7,2011-07-26 11:53:00,0.0,Not Available,United Kingdom
+561326,21294,damaged,-227,2011-07-26 13:50:00,0.0,Not Available,United Kingdom
+C561464,D,Discount,-1,2011-07-27 12:40:00,26.05,14527.0,United Kingdom
+561663,22501,incorrectly put back into stock,-108,2011-07-28 16:40:00,0.0,Not Available,United Kingdom
+561665,22171,?,142,2011-07-28 16:55:00,0.0,Not Available,United Kingdom
+561920,84352,Damages/samples,-52,2011-08-01 12:10:00,0.0,Not Available,United Kingdom
+561927,22740,?,-1060,2011-08-01 12:49:00,0.0,Not Available,United Kingdom
+C562062,AMAZONFEE,AMAZON FEE,-1,2011-08-02 12:17:00,4575.64,Not Available,United Kingdom
+C562086,AMAZONFEE,AMAZON FEE,-1,2011-08-02 12:27:00,6721.37,Not Available,United Kingdom
+562164,21257,?,-94,2011-08-03 12:08:00,0.0,Not Available,United Kingdom
+562278,21391,Sold as 1 on dotcom,-342,2011-08-04 10:27:00,0.0,Not Available,United Kingdom
+562352,21735,damages,-59,2011-08-04 13:12:00,0.0,Not Available,United Kingdom
+562382,22927,?,-40,2011-08-04 15:36:00,0.0,Not Available,United Kingdom
+562383,22523,?,-90,2011-08-04 15:37:00,0.0,Not Available,United Kingdom
+562546,20694,?,-110,2011-08-05 15:46:00,0.0,Not Available,United Kingdom
+C562796,D,Discount,-1,2011-08-09 14:27:00,64.0,13694.0,United Kingdom
+C563225,D,Discount,-1,2011-08-14 14:35:00,434.51,14911.0,EIRE
+563453,21033,taig adjust no stock,-24,2011-08-16 14:34:00,0.0,Not Available,United Kingdom
+C563535,BANK CHARGES,Bank Charges,-1,2011-08-17 11:38:00,612.46,Not Available,United Kingdom
+C563592,D,Discount,-1,2011-08-18 06:12:00,9.6,16029.0,United Kingdom
+C563593,D,Discount,-1,2011-08-18 06:13:00,206.4,14646.0,Netherlands
+C564340,AMAZONFEE,AMAZON FEE,-1,2011-08-24 14:50:00,4527.65,Not Available,United Kingdom
+C564341,AMAZONFEE,AMAZON FEE,-1,2011-08-24 14:53:00,6662.51,Not Available,United Kingdom
+C564486,S,SAMPLES,-1,2011-08-25 13:57:00,83.06,Not Available,United Kingdom
+C564486,S,SAMPLES,-1,2011-08-25 13:57:00,280.17,Not Available,United Kingdom
+C564486,S,SAMPLES,-1,2011-08-25 13:57:00,162.0,Not Available,United Kingdom
+C564487,D,Discount,-1,2011-08-25 14:07:00,11.52,15838.0,United Kingdom
+C564492,S,SAMPLES,-1,2011-08-25 14:16:00,239.07,Not Available,United Kingdom
+C564492,S,SAMPLES,-1,2011-08-25 14:16:00,34.9,Not Available,United Kingdom
+C564494,BANK CHARGES,Bank Charges,-1,2011-08-25 14:20:00,83.83,Not Available,United Kingdom
+C564498,BANK CHARGES,Bank Charges,-1,2011-08-25 14:22:00,77.63,Not Available,United Kingdom
+C564763,CRUK,CRUK Commission,-1,2011-08-30 10:49:00,1.6,14096.0,United Kingdom
+C564812,D,Discount,-1,2011-08-30 11:45:00,16.67,14527.0,United Kingdom
+C564812,D,Discount,-1,2011-08-30 11:45:00,15.07,14527.0,United Kingdom
+C564812,D,Discount,-1,2011-08-30 11:45:00,10.06,14527.0,United Kingdom
+C564812,D,Discount,-1,2011-08-30 11:45:00,13.0,14527.0,United Kingdom
+C564909,D,Discount,-1,2011-08-31 12:29:00,66.17,15498.0,United Kingdom
+C564909,D,Discount,-1,2011-08-31 12:29:00,33.75,15498.0,United Kingdom
+564914,85132C,damages,-109,2011-08-31 12:40:00,0.0,Not Available,United Kingdom
+C565075,D,Discount,-1,2011-08-31 17:25:00,36.3,13408.0,United Kingdom
+C565075,D,Discount,-1,2011-08-31 17:25:00,38.39,13408.0,United Kingdom
+C565078,D,Discount,-1,2011-08-31 17:45:00,57.6,16422.0,United Kingdom
+565288,23135,?,101,2011-09-02 11:43:00,0.0,Not Available,United Kingdom
+565296,84929,code mix up? 84930,-967,2011-09-02 12:04:00,0.0,Not Available,United Kingdom
+565297,84877D,?,-203,2011-09-02 12:06:00,0.0,Not Available,United Kingdom
+565302,21682,?display?,-156,2011-09-02 12:16:00,0.0,Not Available,United Kingdom
+565306,21830,sold as 1,-252,2011-09-02 12:20:00,0.0,Not Available,United Kingdom
+565307,21830,?,-443,2011-09-02 12:20:00,0.0,Not Available,United Kingdom
+565308,21829,sold as 1,-432,2011-09-02 12:22:00,0.0,Not Available,United Kingdom
+565310,21829,?missing,-1897,2011-09-02 12:26:00,0.0,Not Available,United Kingdom
+C565313,D,Discount,-1,2011-09-02 12:41:00,14.5,14527.0,United Kingdom
+565370,82494L,crushed ctn,-33,2011-09-02 15:04:00,0.0,Not Available,United Kingdom
+565371,82483,crushed,-13,2011-09-02 15:04:00,0.0,Not Available,United Kingdom
+C565382,CRUK,CRUK Commission,-1,2011-09-02 15:45:00,13.01,14096.0,United Kingdom
+565385,22435,?missing,-434,2011-09-02 15:46:00,0.0,Not Available,United Kingdom
+C565390,D,Discount,-1,2011-09-02 16:23:00,110.43,13408.0,United Kingdom
+565735,BANK CHARGES,Bank Charges,1,2011-09-06 12:25:00,15.0,16904.0,United Kingdom
+565935,23064,Crushed,-8,2011-09-08 10:46:00,0.0,Not Available,United Kingdom
+C566078,D,Discount,-1,2011-09-09 09:38:00,45.33,13137.0,United Kingdom
+566122,23084,temp adjustment,-484,2011-09-09 10:57:00,0.0,Not Available,United Kingdom
+C566216,CRUK,CRUK Commission,-1,2011-09-09 15:17:00,15.96,14096.0,United Kingdom
+566449,20856,??,-140,2011-09-12 16:07:00,0.0,Not Available,United Kingdom
+C566475,D,Discount,-1,2011-09-12 18:26:00,20.75,14527.0,United Kingdom
+C566565,CRUK,CRUK Commission,-1,2011-09-13 12:32:00,52.24,14096.0,United Kingdom
+C566613,D,Discount,-1,2011-09-13 17:17:00,15.0,16029.0,United Kingdom
+C566614,D,Discount,-1,2011-09-13 17:28:00,102.24,16029.0,United Kingdom
+566712,22030,??,-635,2011-09-14 12:04:00,0.0,Not Available,United Kingdom
+C566889,AMAZONFEE,AMAZON FEE,-1,2011-09-15 13:50:00,5522.14,Not Available,United Kingdom
+C566899,AMAZONFEE,AMAZON FEE,-1,2011-09-15 13:53:00,7427.97,Not Available,United Kingdom
+567113,85215,Damaged,-29,2011-09-16 13:39:00,0.0,Not Available,United Kingdom
+567125,21246,damaged,-2,2011-09-16 13:49:00,0.0,Not Available,United Kingdom
+567127,85230E,Damaged,-48,2011-09-16 14:01:00,0.0,Not Available,United Kingdom
+567131,21830,damaged,192,2011-09-16 14:13:00,0.0,Not Available,United Kingdom
+567132,21830,OOPS ! adjustment,-384,2011-09-16 14:14:00,0.0,Not Available,United Kingdom
+C567136,BANK CHARGES,Bank Charges,-1,2011-09-16 14:27:00,366.27,Not Available,United Kingdom
+567143,21179,damaged,-14,2011-09-16 15:02:00,0.0,Not Available,United Kingdom
+567149,35607B,thrown away,-9,2011-09-16 15:29:00,0.0,Not Available,United Kingdom
+567150,35817P,thrown away,-44,2011-09-16 15:29:00,0.0,Not Available,United Kingdom
+567629,40016,?,-752,2011-09-21 13:21:00,0.0,Not Available,United Kingdom
+C567655,CRUK,CRUK Commission,-1,2011-09-21 14:40:00,608.66,14096.0,United Kingdom
+567693,85199L,?,-250,2011-09-21 17:26:00,0.0,Not Available,United Kingdom
+C567896,D,Discount,-1,2011-09-22 15:59:00,18.62,14527.0,United Kingdom
+567918,79163,damaged,-1,2011-09-22 17:20:00,0.0,Not Available,United Kingdom
+567921,21089,damaged,-7,2011-09-22 17:24:00,0.0,Not Available,United Kingdom
+567923,37343,damaged,-2,2011-09-22 17:24:00,0.0,Not Available,United Kingdom
+567925,84876D,damaged,-2,2011-09-22 17:26:00,0.0,Not Available,United Kingdom
+567927,21654,Damaged,-3,2011-09-22 17:28:00,0.0,Not Available,United Kingdom
+567931,84563B,damaged,-11,2011-09-22 17:38:00,0.0,Not Available,United Kingdom
+567933,84422,Dagamed,-30,2011-09-22 17:49:00,0.0,Not Available,United Kingdom
+568302,20700,?,-121,2011-09-26 12:46:00,0.0,Not Available,United Kingdom
+C568345,CRUK,CRUK Commission,-1,2011-09-26 15:28:00,447.56,14096.0,United Kingdom
+568375,BANK CHARGES,Bank Charges,1,2011-09-26 17:01:00,15.0,13405.0,United Kingdom
+568375,BANK CHARGES,Bank Charges,1,2011-09-26 17:01:00,0.001,13405.0,United Kingdom
+568401,21394,damages,-35,2011-09-27 10:30:00,0.0,Not Available,United Kingdom
+568442,37327,damages,-131,2011-09-27 11:31:00,0.0,Not Available,United Kingdom
+568724,84816,damages,-21,2011-09-28 16:27:00,0.0,Not Available,United Kingdom
+569098,21098,damages?,-231,2011-09-30 12:09:00,0.0,Not Available,United Kingdom
+569131,22927,damaged,-5,2011-09-30 13:49:00,0.0,Not Available,United Kingdom
+C569245,CRUK,CRUK Commission,-1,2011-10-03 09:57:00,361.59,14096.0,United Kingdom
+569256,20774,damaged,-14,2011-10-03 11:15:00,0.0,Not Available,United Kingdom
+569335,84660A,damaged,-15,2011-10-03 13:57:00,0.0,Not Available,United Kingdom
+569341,82600,historic computer difference?....se,-458,2011-10-03 14:19:00,0.0,Not Available,United Kingdom
+569464,23268,Incorrect stock entry.,-1440,2011-10-04 11:40:00,0.0,Not Available,United Kingdom
+569465,23269,incorrect stock entry.,-1440,2011-10-04 11:41:00,0.0,Not Available,United Kingdom
+569466,23270,incorrect stock entry.,-2880,2011-10-04 11:42:00,0.0,Not Available,United Kingdom
+C569829,D,Discount,-1,2011-10-06 12:37:00,16.74,14527.0,United Kingdom
+C569829,D,Discount,-1,2011-10-06 12:37:00,16.07,14527.0,United Kingdom
+569830,23343,wrongly coded 20713,800,2011-10-06 12:38:00,0.0,Not Available,United Kingdom
+569831,20713,wrongly coded-23343,-800,2011-10-06 12:38:00,0.0,Not Available,United Kingdom
+569854,35954,counted,-430,2011-10-06 14:26:00,0.0,Not Available,United Kingdom
+569855,23412,?,-30,2011-10-06 14:27:00,0.0,Not Available,United Kingdom
+569874,90180A,stock check,-32,2011-10-06 15:06:00,0.0,Not Available,United Kingdom
+569875,90195A,check,-45,2011-10-06 15:07:00,0.0,Not Available,United Kingdom
+569876,90210D,check,-28,2011-10-06 15:08:00,0.0,Not Available,United Kingdom
+569878,90057,crushed boxes,-380,2011-10-06 15:12:00,0.0,Not Available,United Kingdom
+569879,90012B,check,-5,2011-10-06 15:13:00,0.0,Not Available,United Kingdom
+569880,90012A,stock check,-18,2011-10-06 15:14:00,0.0,Not Available,United Kingdom
+569883,90014A,check,-12,2011-10-06 15:16:00,0.0,Not Available,United Kingdom
+569886,90191,??,-60,2011-10-06 15:24:00,0.0,Not Available,United Kingdom
+C570025,AMAZONFEE,AMAZON FEE,-1,2011-10-07 10:29:00,5942.57,Not Available,United Kingdom
+570110,22570,?,-74,2011-10-07 12:27:00,0.0,Not Available,United Kingdom
+570112,22569,?,-84,2011-10-07 12:29:00,0.0,Not Available,United Kingdom
+570185,21090,WET/MOULDY,-192,2011-10-07 14:56:00,0.0,Not Available,United Kingdom
+570193,22449,can't find,-125,2011-10-07 15:32:00,0.0,Not Available,United Kingdom
+570294,84249A,damaged,-25,2011-10-10 12:00:00,0.0,Not Available,United Kingdom
+570403,47574A,check,-61,2011-10-10 12:45:00,0.0,Not Available,United Kingdom
+570440,21424,damages,-40,2011-10-10 14:31:00,0.0,Not Available,United Kingdom
+C570454,BANK CHARGES,Bank Charges,-1,2011-10-10 15:21:00,472.77,Not Available,United Kingdom
+C570456,S,SAMPLES,-1,2011-10-10 15:38:00,98.18,Not Available,United Kingdom
+C570456,S,SAMPLES,-1,2011-10-10 15:38:00,4.88,Not Available,United Kingdom
+C570463,BANK CHARGES,Bank Charges,-1,2011-10-10 15:59:00,49.65,Not Available,United Kingdom
+C570464,S,SAMPLES,-1,2011-10-10 16:01:00,47.98,Not Available,United Kingdom
+C570487,CRUK,CRUK Commission,-1,2011-10-10 17:12:00,411.92,14096.0,United Kingdom
+570595,21823,check,-94,2011-10-11 11:47:00,0.0,Not Available,United Kingdom
+570596,21803,check,-38,2011-10-11 11:48:00,0.0,Not Available,United Kingdom
+570599,84596G,??,-365,2011-10-11 12:00:00,0.0,Not Available,United Kingdom
+570691,85231G,check,-110,2011-10-11 16:44:00,0.0,Not Available,United Kingdom
+570711,21622,damages,-45,2011-10-12 10:14:00,0.0,Not Available,United Kingdom
+570712,22121,?,-90,2011-10-12 10:15:00,0.0,Not Available,United Kingdom
+570873,23322,mouldy,-40,2011-10-12 16:41:00,0.0,Not Available,United Kingdom
+570874,23020,smashed,-4,2011-10-12 16:42:00,0.0,Not Available,United Kingdom
+571024,22812,?,-270,2011-10-13 12:18:00,0.0,Not Available,United Kingdom
+571112,22637,damages,-65,2011-10-13 17:36:00,0.0,Not Available,United Kingdom
+571116,23131,?,-49,2011-10-13 17:46:00,0.0,Not Available,United Kingdom
+571124,72802A,Wet pallet-thrown away,-306,2011-10-14 09:36:00,0.0,Not Available,United Kingdom
+571126,72802A,?,-50,2011-10-14 09:53:00,0.0,Not Available,United Kingdom
+571130,72802C,check,-37,2011-10-14 10:05:00,0.0,Not Available,United Kingdom
+571131,72802B,check,-51,2011-10-14 10:13:00,0.0,Not Available,United Kingdom
+571254,23427,damaged,-2,2011-10-14 17:07:00,0.0,Not Available,United Kingdom
+C571440,CRUK,CRUK Commission,-1,2011-10-17 13:31:00,495.98,14096.0,United Kingdom
+571458,21761,damaged,-2,2011-10-17 14:02:00,0.0,Not Available,United Kingdom
+571459,20839,damages,-80,2011-10-17 14:03:00,0.0,Not Available,United Kingdom
+571686,22149,damages,-40,2011-10-18 14:22:00,0.0,Not Available,United Kingdom
+571687,22149,check,-46,2011-10-18 14:23:00,0.0,Not Available,United Kingdom
+571900,BANK CHARGES,Bank Charges,1,2011-10-19 14:26:00,15.0,13263.0,United Kingdom
+571915,21627,check,-32,2011-10-19 15:34:00,0.0,Not Available,United Kingdom
+C572346,BANK CHARGES,Bank Charges,-1,2011-10-24 10:58:00,49.65,Not Available,United Kingdom
+C572347,S,SAMPLES,-1,2011-10-24 11:03:00,33.05,Not Available,United Kingdom
+572468,72803A,damages,-160,2011-10-24 13:30:00,0.0,Not Available,United Kingdom
+572480,22049,damaged,-100,2011-10-24 13:44:00,0.0,Not Available,United Kingdom
+572516,22336,damaged,-71,2011-10-24 14:45:00,0.0,Not Available,United Kingdom
+572527,20984,damaged,-46,2011-10-24 15:35:00,0.0,Not Available,United Kingdom
+572548,23343,20713 wrongly marked,-200,2011-10-24 17:01:00,0.0,Not Available,United Kingdom
+C572551,CRUK,CRUK Commission,-1,2011-10-24 17:07:00,425.14,14096.0,United Kingdom
+572557,22427,damages,-29,2011-10-24 17:44:00,0.0,Not Available,United Kingdom
+572615,23595,re-adjustment,-5,2011-10-25 11:39:00,0.0,Not Available,United Kingdom
+572684,23029,damages,-20,2011-10-25 14:00:00,0.0,Not Available,United Kingdom
+572685,23032,damages,-60,2011-10-25 14:01:00,0.0,Not Available,United Kingdom
+572686,23118,Breakages,-30,2011-10-25 14:03:00,0.0,Not Available,United Kingdom
+572687,20840,damages,-30,2011-10-25 14:05:00,0.0,Not Available,United Kingdom
+572689,84969,check,-50,2011-10-25 14:13:00,0.0,Not Available,United Kingdom
+572690,21539,damages?,-111,2011-10-25 14:14:00,0.0,Not Available,United Kingdom
+572691,22426,check,-15,2011-10-25 14:15:00,0.0,Not Available,United Kingdom
+572692,21071,check,-82,2011-10-25 14:16:00,0.0,Not Available,United Kingdom
+572693,35810A,check,-78,2011-10-25 14:20:00,0.0,Not Available,United Kingdom
+572701,85078,missing,-840,2011-10-25 14:31:00,0.0,Not Available,United Kingdom
+572702,37479P,??,-184,2011-10-25 14:33:00,0.0,Not Available,United Kingdom
+572748,21824,check,-103,2011-10-25 16:50:00,0.0,Not Available,United Kingdom
+572749,22572,??,-335,2011-10-25 16:52:00,0.0,Not Available,United Kingdom
+572849,S,SAMPLES,1,2011-10-26 12:20:00,33.05,Not Available,United Kingdom
+572891,23343,20713,-400,2011-10-26 14:14:00,0.0,Not Available,United Kingdom
+572919,72802C,check,-17,2011-10-26 16:49:00,0.0,Not Available,United Kingdom
+572920,72803A,?,117,2011-10-26 16:52:00,0.0,Not Available,United Kingdom
+572996,23462,damages,-34,2011-10-27 11:22:00,0.0,Not Available,United Kingdom
+C573081,D,Discount,-1,2011-10-27 14:20:00,23.27,14527.0,United Kingdom
+573115,23343,wrongly coded 20713,-1000,2011-10-27 15:37:00,0.0,Not Available,United Kingdom
+573118,85032D,damaged,-1,2011-10-27 16:19:00,0.0,Not Available,United Kingdom
+573254,85135C,Damages,-49,2011-10-28 12:18:00,0.0,Not Available,United Kingdom
+573255,85135B,check,3,2011-10-28 12:18:00,0.0,Not Available,United Kingdom
+573258,85136C,damages,-36,2011-10-28 12:19:00,0.0,Not Available,United Kingdom
+573259,85136A,damages,-77,2011-10-28 12:20:00,0.0,Not Available,United Kingdom
+573463,17012B,check,-70,2011-10-31 10:56:00,0.0,Not Available,United Kingdom
+573482,21181,check,-54,2011-10-31 11:20:00,0.0,Not Available,United Kingdom
+573487,23400,check,-19,2011-10-31 11:46:00,0.0,Not Available,United Kingdom
+573489,85035B,check,-36,2011-10-31 11:48:00,0.0,Not Available,United Kingdom
+573490,85035A,CHECK,-59,2011-10-31 11:55:00,0.0,Not Available,United Kingdom
+573491,21618,CHECK,-54,2011-10-31 11:56:00,0.0,Not Available,United Kingdom
+573493,21619,check,-94,2011-10-31 11:57:00,0.0,Not Available,United Kingdom
+573494,47503H,check,-24,2011-10-31 11:57:00,0.0,Not Available,United Kingdom
+573495,22117,check,184,2011-10-31 11:58:00,0.0,Not Available,United Kingdom
+573497,21642,check,-138,2011-10-31 12:00:00,0.0,Not Available,United Kingdom
+573498,21636,check,-22,2011-10-31 12:00:00,0.0,Not Available,United Kingdom
+573499,21192,check,-164,2011-10-31 12:01:00,0.0,Not Available,United Kingdom
+573503,22595,check,-80,2011-10-31 12:03:00,0.0,Not Available,United Kingdom
+573505,85208,check,-22,2011-10-31 12:09:00,0.0,Not Available,United Kingdom
+573547,84818,damages,-70,2011-10-31 13:21:00,0.0,Not Available,United Kingdom
+C573549,AMAZONFEE,AMAZON FEE,-1,2011-10-31 13:23:00,5942.57,Not Available,United Kingdom
+C573550,AMAZONFEE,AMAZON FEE,-1,2011-10-31 13:32:00,2185.04,Not Available,United Kingdom
+C573575,CRUK,CRUK Commission,-1,2011-10-31 14:09:00,606.0,14096.0,United Kingdom
+573586,BANK CHARGES,Bank Charges,1,2011-10-31 14:48:00,15.0,14704.0,United Kingdom
+573590,79323G,"Unsaleable, destroyed.",-657,2011-10-31 15:15:00,0.0,Not Available,United Kingdom
+573591,79323B,"Unsaleable, destroyed.",-1671,2011-10-31 15:15:00,0.0,Not Available,United Kingdom
+573592,79323GR,"Unsaleable, destroyed.",-1158,2011-10-31 15:16:00,0.0,Not Available,United Kingdom
+573593,79323LP,"Unsaleable, destroyed.",-2618,2011-10-31 15:16:00,0.0,Not Available,United Kingdom
+573594,79323P,"Unsaleable, destroyed.",-2003,2011-10-31 15:16:00,0.0,Not Available,United Kingdom
+573595,79323S,"Unsaleable, destroyed.",-674,2011-10-31 15:17:00,0.0,Not Available,United Kingdom
+573596,79323W,"Unsaleable, destroyed.",-4830,2011-10-31 15:17:00,0.0,Not Available,United Kingdom
+573597,79341,"Unsaleable, destroyed.",-905,2011-10-31 15:18:00,0.0,Not Available,United Kingdom
+573598,79342B,"Unsaleable, destroyed.",-1128,2011-10-31 15:18:00,0.0,Not Available,United Kingdom
+573670,22176,check,-28,2011-10-31 17:02:00,0.0,Not Available,United Kingdom
+573672,22522,check,-126,2011-10-31 17:04:00,0.0,Not Available,United Kingdom
+573726,72817,check,-67,2011-10-31 17:18:00,0.0,Not Available,United Kingdom
+573734,72818,check,-26,2011-10-31 17:19:00,0.0,Not Available,United Kingdom
+573751,46000U,check,10,2011-11-01 09:33:00,0.0,Not Available,United Kingdom
+573752,46000S,dotcom sales,-90,2011-11-01 09:34:00,0.0,Not Available,United Kingdom
+573815,20902,check,-3,2011-11-01 11:31:00,0.0,Not Available,United Kingdom
+573816,20898,check,-10,2011-11-01 11:32:00,0.0,Not Available,United Kingdom
+573880,22812,check,48,2011-11-01 13:21:00,0.0,Not Available,United Kingdom
+573919,21352,check,-23,2011-11-01 17:39:00,0.0,Not Available,United Kingdom
+573920,84050,check,14,2011-11-01 18:00:00,0.0,Not Available,United Kingdom
+573926,47503A,check,65,2011-11-02 09:52:00,0.0,Not Available,United Kingdom
+573978,21644,check,27,2011-11-02 11:02:00,0.0,Not Available,United Kingdom
+573979,35968,check,9,2011-11-02 11:02:00,0.0,Not Available,United Kingdom
+573980,21539,check,4,2011-11-02 11:03:00,0.0,Not Available,United Kingdom
+573981,21700,check,26,2011-11-02 11:05:00,0.0,Not Available,United Kingdom
+573983,82600,check,3,2011-11-02 11:08:00,0.0,Not Available,United Kingdom
+573984,16207A,check,2,2011-11-02 11:09:00,0.0,Not Available,United Kingdom
+573985,22848,check,2,2011-11-02 11:09:00,0.0,Not Available,United Kingdom
+573986,84659A,check,19,2011-11-02 11:13:00,0.0,Not Available,United Kingdom
+573987,21349,check,1,2011-11-02 11:14:00,0.0,Not Available,United Kingdom
+573988,22925,check,1,2011-11-02 11:14:00,0.0,Not Available,United Kingdom
+573989,23091,check,2,2011-11-02 11:14:00,0.0,Not Available,United Kingdom
+573990,22606,check,1,2011-11-02 11:18:00,0.0,Not Available,United Kingdom
+573991,21804,check,36,2011-11-02 11:19:00,0.0,Not Available,United Kingdom
+574094,22147,check,-80,2011-11-03 09:46:00,0.0,Not Available,United Kingdom
+574123,22652,check,-111,2011-11-03 10:55:00,0.0,Not Available,United Kingdom
+574171,21818,check,-130,2011-11-03 11:45:00,0.0,Not Available,United Kingdom
+574173,35923,check,-42,2011-11-03 11:46:00,0.0,Not Available,United Kingdom
+574176,85054,check,-39,2011-11-03 11:48:00,0.0,Not Available,United Kingdom
+574198,21159,damaged,-40,2011-11-03 12:00:00,0.0,Not Available,United Kingdom
+C574238,D,Discount,-1,2011-11-03 12:39:00,11.84,13408.0,United Kingdom
+C574238,D,Discount,-1,2011-11-03 12:39:00,39.7,13408.0,United Kingdom
+C574238,D,Discount,-1,2011-11-03 12:39:00,11.59,13408.0,United Kingdom
+574546,BANK CHARGES,Bank Charges,1,2011-11-04 14:59:00,15.0,13651.0,United Kingdom
+574577,21519,check,-80,2011-11-04 17:09:00,0.0,Not Available,United Kingdom
+574578,40001,check,-240,2011-11-04 17:09:00,0.0,Not Available,United Kingdom
+574579,72802B,check,-203,2011-11-04 17:14:00,0.0,Not Available,United Kingdom
+574580,20751,check,-35,2011-11-04 17:44:00,0.0,Not Available,United Kingdom
+574581,23187,check,-62,2011-11-04 17:45:00,0.0,Not Available,United Kingdom
+574582,84279P,check,-104,2011-11-04 17:46:00,0.0,Not Available,United Kingdom
+574583,22892,check,-62,2011-11-04 17:46:00,0.0,Not Available,United Kingdom
+574757,72802C,damages,-54,2011-11-07 10:08:00,0.0,Not Available,United Kingdom
+574816,85036C,damages wax,-1560,2011-11-07 10:37:00,0.0,Not Available,United Kingdom
+574822,85036B,damages wax,-1284,2011-11-07 10:38:00,0.0,Not Available,United Kingdom
+C574897,AMAZONFEE,AMAZON FEE,-1,2011-11-07 15:03:00,5877.18,Not Available,United Kingdom
+C574902,AMAZONFEE,AMAZON FEE,-1,2011-11-07 15:21:00,8286.22,Not Available,United Kingdom
+574906,85034A,damaged,-81,2011-11-07 15:30:00,0.0,Not Available,United Kingdom
+575048,84665,water damaged,-15,2011-11-08 12:12:00,0.0,Not Available,United Kingdom
+575287,84508A,check,-39,2011-11-09 12:15:00,0.0,Not Available,United Kingdom
+575518,10080,check,22,2011-11-10 10:53:00,0.0,Not Available,United Kingdom
+C575606,CRUK,CRUK Commission,-1,2011-11-10 12:37:00,517.51,14096.0,United Kingdom
+575613,23118,check,-6,2011-11-10 12:47:00,0.0,Not Available,United Kingdom
+575614,22121,check,-10,2011-11-10 12:48:00,0.0,Not Available,United Kingdom
+575615,82582,??,-130,2011-11-10 12:51:00,0.0,Not Available,United Kingdom
+575617,21014,check,-90,2011-11-10 12:53:00,0.0,Not Available,United Kingdom
+575625,35972,check,-3,2011-11-10 13:20:00,0.0,Not Available,United Kingdom
+575704,21843,smashed,-63,2011-11-10 17:00:00,0.0,Not Available,United Kingdom
+575714,85125,check,-64,2011-11-10 17:55:00,0.0,Not Available,United Kingdom
+575715,72802B,check,-36,2011-11-10 17:58:00,0.0,Not Available,United Kingdom
+575716,72802C,check,-21,2011-11-10 18:00:00,0.0,Not Available,United Kingdom
+575717,85175,check,-42,2011-11-10 18:02:00,0.0,Not Available,United Kingdom
+575719,35954,check,24,2011-11-10 18:08:00,0.0,Not Available,United Kingdom
+575720,21817,check,-8,2011-11-10 18:09:00,0.0,Not Available,United Kingdom
+575721,22804,Wrongly mrked had 85123a in box,-256,2011-11-10 18:19:00,0.0,Not Available,United Kingdom
+575722,85123A,wrongly marked carton 22804,-256,2011-11-10 18:20:00,0.0,Not Available,United Kingdom
+C575872,D,Discount,-1,2011-11-11 12:52:00,97.14,13408.0,United Kingdom
+575907,22268,check,-10,2011-11-11 15:52:00,0.0,Not Available,United Kingdom
+575909,20711,check,-220,2011-11-11 16:02:00,0.0,Not Available,United Kingdom
+575912,22943,check,-7,2011-11-11 16:20:00,0.0,Not Available,United Kingdom
+576185,22575,missing?,-130,2011-11-14 11:25:00,0.0,Not Available,United Kingdom
+C576218,D,Discount,-1,2011-11-14 12:57:00,183.0,13694.0,United Kingdom
+C576244,D,Discount,-1,2011-11-14 13:40:00,6.0,18167.0,United Kingdom
+576250,71279,damages,-74,2011-11-14 13:50:00,0.0,Not Available,United Kingdom
+C576338,CRUK,CRUK Commission,-1,2011-11-14 15:27:00,1038.75,14096.0,United Kingdom
+576366,23072,damages,-50,2011-11-14 18:30:00,0.0,Not Available,United Kingdom
+576367,23071,damages,-65,2011-11-14 18:31:00,0.0,Not Available,United Kingdom
+576368,21135,wet rusty,-864,2011-11-14 18:33:00,0.0,Not Available,United Kingdom
+576369,21135,wet rusty,-288,2011-11-14 18:35:00,0.0,Not Available,United Kingdom
+576407,47590B,check,-57,2011-11-15 11:18:00,0.0,Not Available,United Kingdom
+576410,71038,check,-16,2011-11-15 11:20:00,0.0,Not Available,United Kingdom
+576411,85111,check,-117,2011-11-15 11:20:00,0.0,Not Available,United Kingdom
+576413,17012C,check,-22,2011-11-15 11:21:00,0.0,Not Available,United Kingdom
+576414,17012F,check,14,2011-11-15 11:21:00,0.0,Not Available,United Kingdom
+576419,85036B,check,-23,2011-11-15 11:23:00,0.0,Not Available,United Kingdom
+576424,85036C,check,-4,2011-11-15 11:24:00,0.0,Not Available,United Kingdom
+576436,22943,check,-26,2011-11-15 11:27:00,0.0,Not Available,United Kingdom
+576674,21823,damaged,-6,2011-11-16 12:00:00,0.0,Not Available,United Kingdom
+576762,21744,check,-21,2011-11-16 13:08:00,0.0,Not Available,United Kingdom
+576763,23035,check,-64,2011-11-16 13:09:00,0.0,Not Available,United Kingdom
+576764,16008,check,-1510,2011-11-16 13:10:00,0.0,Not Available,United Kingdom
+576765,22219,???lost,-550,2011-11-16 13:11:00,0.0,Not Available,United Kingdom
+576766,85019B,check,15,2011-11-16 13:11:00,0.0,Not Available,United Kingdom
+576767,22339,check,-60,2011-11-16 13:12:00,0.0,Not Available,United Kingdom
+576773,22181,check,-92,2011-11-16 13:21:00,0.0,Not Available,United Kingdom
+576776,21811,check,-240,2011-11-16 13:22:00,0.0,Not Available,United Kingdom
+576843,10133,damaged,-82,2011-11-16 15:32:00,0.0,Not Available,United Kingdom
+577111,22587,check,-41,2011-11-17 17:55:00,0.0,Not Available,United Kingdom
+577112,22586,check,-30,2011-11-17 17:55:00,0.0,Not Available,United Kingdom
+577113,22271,check,-43,2011-11-17 17:58:00,0.0,Not Available,United Kingdom
+577114,21786,check,-209,2011-11-17 17:59:00,0.0,Not Available,United Kingdom
+577115,85035C,check,-24,2011-11-17 18:02:00,0.0,Not Available,United Kingdom
+577116,21165,check,-28,2011-11-17 18:04:00,0.0,Not Available,United Kingdom
+577117,22149,check,34,2011-11-17 18:04:00,0.0,Not Available,United Kingdom
+577118,22286,check,-47,2011-11-17 18:05:00,0.0,Not Available,United Kingdom
+577119,22778,check,-10,2011-11-17 18:08:00,0.0,Not Available,United Kingdom
+577120,20752,check,-10,2011-11-17 18:09:00,0.0,Not Available,United Kingdom
+577122,23348,sold with wrong barcode,-57,2011-11-17 18:33:00,0.0,Not Available,United Kingdom
+577123,23288,check,-63,2011-11-17 18:34:00,0.0,Not Available,United Kingdom
+577124,22759,check,-327,2011-11-17 18:41:00,0.0,Not Available,United Kingdom
+577145,20832,check,110,2011-11-18 09:35:00,0.0,Not Available,United Kingdom
+C577227,D,Discount,-1,2011-11-18 12:06:00,27.26,14527.0,United Kingdom
+C577227,D,Discount,-1,2011-11-18 12:06:00,14.88,14527.0,United Kingdom
+C577227,D,Discount,-1,2011-11-18 12:06:00,19.82,14527.0,United Kingdom
+C577227,D,Discount,-1,2011-11-18 12:06:00,16.76,14527.0,United Kingdom
+577304,20956,check,-152,2011-11-18 13:04:00,0.0,Not Available,United Kingdom
+577305,22946,check,-21,2011-11-18 13:06:00,0.0,Not Available,United Kingdom
+577307,16169E,check,-313,2011-11-18 13:06:00,0.0,Not Available,United Kingdom
+C577330,S,SAMPLES,-1,2011-11-18 14:16:00,2.89,Not Available,United Kingdom
+C577330,S,SAMPLES,-1,2011-11-18 14:16:00,75.0,Not Available,United Kingdom
+C577330,S,SAMPLES,-1,2011-11-18 14:16:00,5.99,Not Available,United Kingdom
+C577342,BANK CHARGES,Bank Charges,-1,2011-11-18 15:11:00,490.06,Not Available,United Kingdom
+C577343,BANK CHARGES,Bank Charges,-1,2011-11-18 15:13:00,27.21,Not Available,United Kingdom
+577749,35400,WOODEN BOX ADVENT CALENDAR ,3,2011-11-21 14:26:00,8.95,16242.0,United Kingdom
+577787,23055,rusty thrown away,-398,2011-11-21 16:28:00,0.0,Not Available,United Kingdom
+577788,23056,rusty throw away,-210,2011-11-21 16:28:00,0.0,Not Available,United Kingdom
+577789,23057,rusty throw away,-280,2011-11-21 16:28:00,0.0,Not Available,United Kingdom
+577794,35400,WOODEN BOX ADVENT CALENDAR ,1,2011-11-21 16:48:00,8.95,14030.0,United Kingdom
+577836,21888,check,-57,2011-11-22 10:26:00,0.0,Not Available,United Kingdom
+577942,21811,check,26,2011-11-22 12:08:00,0.0,Not Available,United Kingdom
+577944,47503A,check,56,2011-11-22 12:08:00,0.0,Not Available,United Kingdom
+577947,21992,check,13,2011-11-22 12:08:00,0.0,Not Available,United Kingdom
+577949,21804,check,44,2011-11-22 12:09:00,0.0,Not Available,United Kingdom
+577953,23348,check,5,2011-11-22 12:09:00,0.0,Not Available,United Kingdom
+577954,17136A,check,3,2011-11-22 12:10:00,0.0,Not Available,United Kingdom
+577999,21018,damaged,-63,2011-11-22 12:29:00,0.0,Not Available,United Kingdom
+578065,22034,ROBIN CHRISTMAS CARD,1,2011-11-22 15:41:00,0.83,Not Available,United Kingdom
+578095,23397,damaged,-9,2011-11-22 17:25:00,0.0,Not Available,United Kingdom
+C578239,D,Discount,-1,2011-11-23 12:29:00,26.33,14912.0,Italy
+578245,22568,?? missing,-170,2011-11-23 12:37:00,0.0,Not Available,United Kingdom
+C578269,CRUK,CRUK Commission,-1,2011-11-23 13:39:00,849.93,14096.0,United Kingdom
+578292,35400,WOODEN BOX ADVENT CALENDAR ,1,2011-11-23 14:35:00,8.95,13174.0,United Kingdom
+578327,72807A,wet pallet,-504,2011-11-23 17:55:00,0.0,Not Available,United Kingdom
+578328,72807B,wet pallet,-696,2011-11-23 17:55:00,0.0,Not Available,United Kingdom
+578329,72807C,wet pallet,-408,2011-11-23 17:56:00,0.0,Not Available,United Kingdom
+578473,72807B,damages,-101,2011-11-24 12:43:00,0.0,Not Available,United Kingdom
+578474,72807A,damages,-56,2011-11-24 12:44:00,0.0,Not Available,United Kingdom
+578475,72807C,damages,-149,2011-11-24 12:44:00,0.0,Not Available,United Kingdom
+578476,72807B,????missing,-124,2011-11-24 12:45:00,0.0,Not Available,United Kingdom
+578477,72807A,???missing,-224,2011-11-24 12:45:00,0.0,Not Available,United Kingdom
+578478,72807C,???missing,-428,2011-11-24 12:45:00,0.0,Not Available,United Kingdom
+578524,22810,check,-25,2011-11-24 14:20:00,0.0,Not Available,United Kingdom
+578525,22152,check,-179,2011-11-24 14:21:00,0.0,Not Available,United Kingdom
+578527,21819,check,-14,2011-11-24 14:24:00,0.0,Not Available,United Kingdom
+578528,22601,check,-20,2011-11-24 14:24:00,0.0,Not Available,United Kingdom
+578691,85034A,check,24,2011-11-25 09:37:00,0.0,Not Available,United Kingdom
+578692,23157,check,212,2011-11-25 09:38:00,0.0,Not Available,United Kingdom
+578733,21643,damaged,-9,2011-11-25 11:32:00,0.0,Not Available,United Kingdom
+578833,22034,ROBIN CHRISTMAS CARD,1,2011-11-25 15:23:00,0.83,Not Available,United Kingdom
+578837,35833P,check,-24,2011-11-25 15:51:00,0.0,Not Available,United Kingdom
+578838,21591,check,-267,2011-11-25 15:52:00,0.0,Not Available,United Kingdom
+578839,22959,check,-175,2011-11-25 15:52:00,0.0,Not Available,United Kingdom
+578840,22142,check,-70,2011-11-25 15:54:00,0.0,Not Available,United Kingdom
+579137,BANK CHARGES,Bank Charges,1,2011-11-28 12:51:00,15.0,14704.0,United Kingdom
+C579195,CRUK,CRUK Commission,-1,2011-11-28 15:54:00,987.14,14096.0,United Kingdom
+579429,20711,lost in space,-98,2011-11-29 13:04:00,0.0,Not Available,United Kingdom
+579680,22533,check,60,2011-11-30 13:29:00,0.0,Not Available,United Kingdom
+579681,21615,check,-26,2011-11-30 13:33:00,0.0,Not Available,United Kingdom
+579682,85172,check,-145,2011-11-30 13:33:00,0.0,Not Available,United Kingdom
+579683,21868,check,-28,2011-11-30 13:35:00,0.0,Not Available,United Kingdom
+579731,35648,check,-46,2011-11-30 14:23:00,0.0,Not Available,United Kingdom
+579732,35648,check,-10,2011-11-30 14:24:00,0.0,Not Available,United Kingdom
+579733,84581,check,-41,2011-11-30 14:24:00,0.0,Not Available,United Kingdom
+579734,84859C,wet?,-153,2011-11-30 14:25:00,0.0,Not Available,United Kingdom
+579735,21793,check,-40,2011-11-30 14:25:00,0.0,Not Available,United Kingdom
+579742,85204,lost??,-1131,2011-11-30 14:34:00,0.0,Not Available,United Kingdom
+579743,21810,check,-135,2011-11-30 14:36:00,0.0,Not Available,United Kingdom
+579745,22043,check,-40,2011-11-30 14:39:00,0.0,Not Available,United Kingdom
+579755,84912B,damaged,-14,2011-11-30 14:54:00,0.0,Not Available,United Kingdom
+579873,35819B,check,18,2011-11-30 17:00:00,0.0,Not Available,United Kingdom
+579879,22759,check,17,2011-11-30 17:13:00,0.0,Not Available,United Kingdom
+C579884,D,Discount,-1,2011-11-30 17:34:00,20.53,14527.0,United Kingdom
+C579908,D,Discount,-1,2011-12-01 08:49:00,28.68,14527.0,United Kingdom
+580218,22577,check,-300,2011-12-02 12:12:00,0.0,Not Available,United Kingdom
+580376,22606,check,8,2011-12-02 17:49:00,0.0,Not Available,United Kingdom
+580377,84609,damages,-29,2011-12-02 17:52:00,0.0,Not Available,United Kingdom
+580378,22792,damages,-73,2011-12-02 17:56:00,0.0,Not Available,United Kingdom
+580380,21620,check,-20,2011-12-02 17:58:00,0.0,Not Available,United Kingdom
+580382,16045,check,-900,2011-12-02 17:59:00,0.0,Not Available,United Kingdom
+580383,20652,check,-37,2011-12-02 17:59:00,0.0,Not Available,United Kingdom
+580546,23406,CHECK,-21,2011-12-05 09:27:00,0.0,Not Available,United Kingdom
+580547,21201,???,-390,2011-12-05 09:29:00,0.0,Not Available,United Kingdom
+C580604,AMAZONFEE,AMAZON FEE,-1,2011-12-05 11:35:00,11586.5,Not Available,United Kingdom
+C580605,AMAZONFEE,AMAZON FEE,-1,2011-12-05 11:36:00,17836.46,Not Available,United Kingdom
+C580726,CRUK,CRUK Commission,-1,2011-12-05 17:17:00,1100.44,14096.0,United Kingdom
+580990,21109,wet,-48,2011-12-06 16:54:00,0.0,Not Available,United Kingdom
+580991,22481,wet boxes,-288,2011-12-06 16:55:00,0.0,Not Available,United Kingdom
+581127,BANK CHARGES,Bank Charges,1,2011-12-07 12:45:00,15.0,16271.0,United Kingdom
+581190,84801A,check,-102,2011-12-07 16:55:00,0.0,Not Available,United Kingdom
+581198,22025,check,-30,2011-12-07 18:26:00,0.0,Not Available,United Kingdom
+581200,84508C,check,-21,2011-12-07 18:27:00,0.0,Not Available,United Kingdom
+581201,22217,damages?,-155,2011-12-07 18:30:00,0.0,Not Available,United Kingdom
+581202,23404,check,41,2011-12-07 18:30:00,0.0,Not Available,United Kingdom
+581204,85104,????damages????,-355,2011-12-07 18:32:00,0.0,Not Available,United Kingdom
+581205,20893,damages,-55,2011-12-07 18:32:00,0.0,Not Available,United Kingdom
+581206,21693,mixed up,-87,2011-12-07 18:34:00,0.0,Not Available,United Kingdom
+581207,21688,mixed up,-337,2011-12-07 18:34:00,0.0,Not Available,United Kingdom
+581208,72801C,check,-10,2011-12-07 18:35:00,0.0,Not Available,United Kingdom
+581210,23395,check,-26,2011-12-07 18:36:00,0.0,Not Available,United Kingdom
+581211,22142,check,14,2011-12-07 18:36:00,0.0,Not Available,United Kingdom
+581212,22578,lost,-1050,2011-12-07 18:38:00,0.0,Not Available,United Kingdom
+581213,22576,check,-30,2011-12-07 18:38:00,0.0,Not Available,United Kingdom
+581226,23090,missing,-338,2011-12-08 09:56:00,0.0,Not Available,United Kingdom
+581422,23169,smashed,-235,2011-12-08 15:24:00,0.0,Not Available,United Kingdom
